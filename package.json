@@ -1,6 +1,6 @@
 {
   "name": "sublime-react",
-  "version": "0.1.1",
+  "version": "0.2",
   "author": "Jonas Gebhardt <jonas.gebhardt@gmail.com>",
   "description": "Sublime Text helpers for React/JSX",
   "scripts": {
