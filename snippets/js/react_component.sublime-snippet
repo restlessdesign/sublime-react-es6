@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-const React = require('react');
+import React from 'react';
 
 const ${1} = React.createClass({
 
