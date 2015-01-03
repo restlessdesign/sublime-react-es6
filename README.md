@@ -1,4 +1,4 @@
-# sublime-react
+# sublime-react for ES6
 
 Snippets and syntax highlighting for React.js / JSX.
 
