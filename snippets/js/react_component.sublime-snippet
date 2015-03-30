@@ -2,15 +2,18 @@
     <content><![CDATA[
 import React from 'react';
 
-const ${1} = React.createClass({
+class ${1} {
 
-	render() {
+// Component Methods _________________________________________________________
+
+    render() {
 		return (
 			${0:<div />}
 		);
 	}
+}
 
-});
+// Exports ___________________________________________________________________
 
 export default ${1};
 ]]></content>
