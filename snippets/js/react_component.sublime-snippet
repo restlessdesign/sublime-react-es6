@@ -2,7 +2,7 @@
     <content><![CDATA[
 import React from 'react';
 
-class ${1} {
+class ${1} extends React.Component {
 
 // Component Methods _________________________________________________________
 
