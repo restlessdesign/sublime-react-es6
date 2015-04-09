@@ -1,5 +1,7 @@
 <snippet>
     <content><![CDATA[
+'use strict';
+
 import React from 'react';
 
 class ${1} extends React.Component {
