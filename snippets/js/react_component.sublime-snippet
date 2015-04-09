@@ -4,7 +4,7 @@ import React from 'react';
 
 class ${1} extends React.Component {
 
-// Component Methods _________________________________________________________
+// Component Methods ___________________________________________________________
 
     render() {
         return (
@@ -13,7 +13,7 @@ class ${1} extends React.Component {
     }
 }
 
-// Exports ___________________________________________________________________
+// Exports _____________________________________________________________________
 
 export default ${1};
 ]]></content>
